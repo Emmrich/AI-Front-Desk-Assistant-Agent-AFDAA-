@@ -6,19 +6,6 @@ Redefining workplace reception, inquiries, and customer onboarding with conversa
 
  ### [Interact With AFDAA](https://emmrich.github.io/afdaa-website/)
 
-<h2>🧠 Overview</h2>
-AFDAA (AI Front Desk Assistant Agent) is an always-on, virtual front-desk solution that handles calls, greets visitors, manages inquiries, and schedules appointments—all seamlessly integrated with your systems to provide professional, efficient, and consistent front-desk support around the clock.
-
-
----
-
-[Built with Voiceflow](https://img.shields.io/badge/Built%20with-Voiceflow-1E90FF?style=for-the-badge&logo=voiceflow)
-[Powered by OpenAI](https://img.shields.io/badge/Powered%20by-OpenAI-00A67E?style=for-the-badge&logo=openai)
-[Automation Ready](https://img.shields.io/badge/Automation-Enabled-success?style=for-the-badge&logo=robotframework)
-[Data Secure](https://img.shields.io/badge/Data%20Security-Active-green?style=for-the-badge&logo=trustpilot)
-[Made with ❤️ by TCS](https://img.shields.io/badge/Made%20with%20❤️%20by-TCS-orange?style=for-the-badge)
-
----
 
 ## 🧠 Overview  
 AFDAA (AI Front Desk Assistant Agent) is a smart, always-on conversational AI agent, virtual front-desk solution that handles calls, greets visitors, manages inquiries, and schedules appointments—all seamlessly integrated with your systems to provide professional, efficient, and consistent front-desk support around the clock for organizations of any size.
@@ -30,7 +17,7 @@ Developed with **Voiceflow**, **OpenAI**, and custom **API integrations**, AFDAA
 ## 🚀 Live Demo / Try It  
 
 🔗 **Interactive Demo:**  
-> [Click here to chat with Laura – AFDAA](https://ai.tcsng.tech) *(Replace with your actual demo link)*  
+> [Click here to chat with AFDAA](https://emmrich.github.io/afdaa-website/) 
 
 🧩 **Try these commands:**  
 - “Book a meeting with the consultant.”  
