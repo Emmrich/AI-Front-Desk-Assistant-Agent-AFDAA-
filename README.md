@@ -69,6 +69,8 @@ AFDAA follows strict conversational standards:
 
 ## 🧩 System Architecture
 
+```text
+
 [ User Interfaces ]
 
    ↓
@@ -93,16 +95,3 @@ AFDAA follows strict conversational standards:
 - Company Services
 - Policies & FAQs
 
-<br />
-
-
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
